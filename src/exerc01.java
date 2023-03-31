@@ -26,7 +26,6 @@ public class exerc01 {
 		System.out.println("Re: " + Re);
 		Ra = C * 1.8 + 32 + 459.67;
 		System.out.println("Ra: " + Ra);
-		
 	}
 
 }

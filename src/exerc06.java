@@ -1,3 +1,7 @@
+// Escrever um programa para calcular o valor gasto de combustível
+// de um carro durante um percurso. Considere o valor do litro do combustível como sendo
+// de 6,50 e o consumo do carro como sendo de 12 km/litro.
+
 import java.util.Scanner;
 
 public class exerc06 {

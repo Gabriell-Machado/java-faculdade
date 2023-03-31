@@ -1,3 +1,9 @@
+// Monte um programa (Missão1_EXERC09) que, dado o valor de um carro com
+// depreciação de 7% ao ano, mostre o valor de venda durante 10 anos. Considere também
+// o mesmo valor do carro, investido em aplicação básica com correção de 7%. Mostre o
+// valor do investimento durante 10 anos. Mostre também a diferença entre eles em cada
+// ano.
+
 import java.util.Scanner;
 
 public class exerc09 {

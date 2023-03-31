@@ -1,3 +1,7 @@
+// Crie um programa (Missão1_EXERC010) que, dado o valor do salário de um usuário,
+// calcule a quantidade de salários mínimos que esse usuário ganha e imprima o resultado.
+// (1 SM = R$1210,00).
+
 import java.util.Scanner;
 
 public class exerc10 {

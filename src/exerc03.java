@@ -1,3 +1,6 @@
+// Escreva um programa que calcule os gastos com alimentação e
+// transporte de um aluno durante um mês e apresente o resultado total e a média diária.
+
 import java.util.Scanner;
 
 public class exerc03 {

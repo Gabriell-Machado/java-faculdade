@@ -1,3 +1,7 @@
+// Escreva um programa que calcule a média do aluno com base nas
+// suas notas bimestrais. O resultado deve ser armazenado na variável ‘média’ e o valor da
+// mesma deve ser aprentado no console.
+
 public class exerc02 {
 
 /*
